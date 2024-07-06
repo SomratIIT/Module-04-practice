@@ -1,0 +1,22 @@
+
+    header , form {
+        display: flex; /* Use flexbox to arrange children in a row */
+        align-items: center;
+        gap:10px;
+       }
+       .fm{
+        display: block;
+       }
+       fieldset{
+         width: 50%;
+         margin-bottom: 15px;
+       }
+       .size{
+        padding: 10px;
+        margin-top: 1 px;
+       }
+       .s1{
+        padding: 10px;
+        margin-top: 5 px;
+        margin-left: 20px;
+       }
